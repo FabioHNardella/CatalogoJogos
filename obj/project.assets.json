@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatálogoJogos\\CatálogoJogos.csproj",
-      "projectName": "CatálogoJogos",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatálogoJogos\\CatálogoJogos.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatalogoJogos\\CatalogoJogos.csproj",
+      "projectName": "CatalogoJogos",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatalogoJogos\\CatalogoJogos.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatálogoJogos\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\CatalogoJogos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"

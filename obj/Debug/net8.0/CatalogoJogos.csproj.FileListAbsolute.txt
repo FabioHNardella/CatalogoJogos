@@ -1,0 +1,15 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\bin\Debug\net8.0\CatalogoJogos.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\bin\Debug\net8.0\CatalogoJogos.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\bin\Debug\net8.0\CatalogoJogos.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\bin\Debug\net8.0\CatalogoJogos.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\bin\Debug\net8.0\CatalogoJogos.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.sourcelink.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\refint\CatalogoJogos.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\CatalogoJogos.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\CatalogoJogos\obj\Debug\net8.0\ref\CatalogoJogos.dll
