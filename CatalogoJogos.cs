@@ -10,7 +10,7 @@ public class CatalogoJogos
     {
         jogos.Add(jogo);
     }
-    public void removerJogo(string jogo)
+    public void RemoverJogo(string jogo)
     {
         jogos.Remove(jogo);
     }
