@@ -4,10 +4,10 @@
 
 O programa possui a classe CatalogoJogos e possui as funções **AddJogo**, **RemoverJogo** e **ExibirLista** e eis suas funções:
 
-<h2>AddJogo(*jogo*):<h2>
+<h2>AddJogo( *jogo* ):<h2>
 - Adiciona *jogo* da lista desejada;
 
-<h2>RemoverJogo(*jogo*):<h2>
+<h2>RemoverJogo( *jogo* ):<h2>
 - Remove *jogo* da lista desejada;
 
 <h2>ExibirLista:<h2>
