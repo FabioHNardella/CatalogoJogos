@@ -12,5 +12,12 @@ c2.AddJogo("Doom Eternal");
 c2.AddJogo("Overwatch");
 c2.AddJogo("Counter-Strike: Global Offensive");
 
+System.Console.WriteLine("Teste 1:\n");
+c1.ExibirLista();
+c2.ExibirLista();
+
+c1.RemoverJogo("Journey");
+c2.RemoverJogo("Overwatch");
+System.Console.WriteLine("Teste 2:\n");
 c1.ExibirLista();
 c2.ExibirLista();
