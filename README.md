@@ -4,7 +4,7 @@
 
 O programa possui a classe **CatalogoJogos** e possui as funções **AddJogo**, **RemoverJogo** e **ExibirLista** e eis suas funções:
 
-## -> AddJogo( *jogo* ):
+### -> AddJogo( *jogo* ):
 - Adiciona *jogo* da lista desejada
 
 ### -> RemoverJogo( *jogo* ):
