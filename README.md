@@ -10,7 +10,7 @@ O programa possui a classe **CatalogoJogos** e possui as funções **AddJogo**, 
 ### -> RemoverJogo( *jogo* ):
 - Remove *jogo* da lista desejada
 
-### -> ExibirLista:
+### -> ExibirLista():
 - Exibe os jogos que estão na lista desejada
 
 ### -> Construtor:
